@@ -79,3 +79,32 @@ background-image: url(snare.png);
   margin: 10px;
   background-color: white;
 }
+@media only screen and (max-width: 768px) {
+  .w{
+    width:40%;
+  }
+  .a {
+  width:40%;
+  }
+
+  .s {
+  width:40%;
+  }
+
+  .d {
+  width:40%;
+  }
+
+  .j {
+  width:40%;
+  }
+
+  .k {
+  width:40%;
+  }
+
+  .l {
+  width:40%;
+  }
+}
+
