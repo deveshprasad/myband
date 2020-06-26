@@ -82,6 +82,7 @@ background-image: url(snare.png);
 @media only screen and (max-width: 720px) {
   .w{
     width:30%;
+    margin:5%;
   }
   .a {
   width:30%;
