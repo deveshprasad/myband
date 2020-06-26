@@ -81,8 +81,32 @@ background-image: url(snare.png);
 }
 
 @media only screen and (max-width:1080px) {
+
   .drum{
-    width: 45%;
+    width: 40%;
   }
+  .w{
+    margin:3% 3%;
+  }
+  .a{
+    margin:3% 3%;
+  }
+  .s{
+    margin:3% 3%;
+  }
+  .d{
+    margin:3% 3%;
+  }
+  .j{
+    margin:3% 3%;
+  }
+  .k{
+    margin:3% 3%;
+  }
+  .l{
+    margin:3% 3%;
+  }
+
+
 }
 
