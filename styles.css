@@ -81,30 +81,30 @@ background-image: url(snare.png);
 }
 @media only screen and (max-width: 320px) {
   .w{
-    width:40%;
+    width:30%;
   }
   .a {
-  width:40%;
+  width:30%;
   }
 
   .s {
-  width:40%;
+  width:30%;
   }
 
   .d {
-  width:40%;
+  width:30%;
   }
 
   .j {
-  width:40%;
+  width:30%;
   }
 
   .k {
-  width:40%;
+  width:30%;
   }
 
   .l {
-  width:40%;
+  width:30%;
   }
 }
 
