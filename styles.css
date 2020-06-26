@@ -79,7 +79,7 @@ background-image: url(snare.png);
   margin: 10px;
   background-color: white;
 }
-@media only screen and (max-width: 920px) {
+@media only screen and (max-width: 1020px) {
   .w{
     width:30%;
     margin:5%;
@@ -108,7 +108,7 @@ background-image: url(snare.png);
   width:30%;
   }
   .drum{
-    width: 40%;
+    width: 45%;
   }
 }
 
