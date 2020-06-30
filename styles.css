@@ -110,6 +110,18 @@ footer{
   .l{
     margin:3% 3%;
   }
-
+  body{
+    
+    background-image: url(https://previews.123rf.com/images/kstudija/kstudija1211/kstudija121100113/16289075-rock-band-vector-background-with-neon-lights.jpg);
+  }
+  h1 {
+    font-size: 5.5rem;
+    color: white;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #092532;
+    font-weight: 800;
+    margin-top: 0 auto;
+  
+  }
 
 }
