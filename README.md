@@ -1,6 +1,9 @@
-# myband
+
 A Web  Music Band Application made using advanced JS 
 Website Link: https://deveshprasad.github.io/myband/
+
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/63739986/111863599-98f6d880-8982-11eb-84db-9bff8862850f.gif)
 
 
 ## ✨About the Project
